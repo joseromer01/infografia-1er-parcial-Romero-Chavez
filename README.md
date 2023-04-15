@@ -9,6 +9,7 @@ Snake is a classic arcade game in which the player controls a snake that grows i
 **Game controls:**
 
 The snake can move all over the playing field, up, down, to the right or to the left.
+
 Graphical representation of the controls:
 
 ![image](https://user-images.githubusercontent.com/116576612/232234561-3f118cc2-58f4-42b7-8a0c-8f32fa0ab2b2.png)
