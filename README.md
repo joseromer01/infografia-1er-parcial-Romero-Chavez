@@ -1,7 +1,7 @@
 # infografia-1er-parcial-Romero-Chavez
-Una implementación en Python del clásico juego Snake 🐍
+Uno de los juegos mas famosos en su tiempo 🐍
 
-Version Python:
+Python version:
 Python 3.10.11
 
 s
