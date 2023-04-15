@@ -1,9 +1,10 @@
 # infografia-1er-parcial-Romero-Chavez
 Uno de los juegos mas famosos en su tiempo 🐍
 
-**Descripción**:
+**Description:**
 
 Snake es un juego clásico de arcade en el que el jugador controla una serpiente que crece en longitud al comer objetos en la pantalla. El objetivo es evitar chocar contra las paredes y el cuerpo de la serpiente mientras se recoge la mayor cantidad posible de objetos para obtener la puntuación más alta. A medida que la serpiente crece, el juego se vuelve más desafiante y rápido.
+
 
 **Controles Juego:**
 
@@ -24,6 +25,32 @@ Tambien la pantalla cuando el juego termina, donde tenemos que presionar la tecl
 
 
 **Python version:**
+
 Python 3.10.11
+
+
+# Installation
+
+Install the awesome [Arcade](https://github.com/pythonarcade/arcade) library:
+
+```
+pip install arcade
+```
+
+Clone this repo:
+
+```
+git clone https://github.com/tiagopog/snake
+```
+
+Run the game:
+
+```
+python snake/main.py
+```
+
+Enjoy!
+
+
 
 
