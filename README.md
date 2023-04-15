@@ -1,25 +1,25 @@
 # infografia-1er-parcial-Romero-Chavez
-Uno de los juegos mas famosos en su tiempo 🐍
+One of the most famous games of its time 🐍.
 
 **Description:**
 
-Snake es un juego clásico de arcade en el que el jugador controla una serpiente que crece en longitud al comer objetos en la pantalla. El objetivo es evitar chocar contra las paredes y el cuerpo de la serpiente mientras se recoge la mayor cantidad posible de objetos para obtener la puntuación más alta. A medida que la serpiente crece, el juego se vuelve más desafiante y rápido.
+Snake is a classic arcade game in which the player controls a snake that grows in length by eating objects on the screen. The goal is to avoid crashing into walls and the snake's body while collecting as many objects as possible to get the highest score. As the snake grows, the game becomes more challenging and faster.
 
 
-**Controles Juego:**
+**Game controls:**
 
-La serpiente puede desplazarse por todo el campo de juego, hacia arriba, hacia abajo, a la derecha o a la izquierda
-Representación gráfica de los controles:
+The snake can move all over the playing field, up, down, to the right or to the left.
+Graphical representation of the controls:
 
 ![image](https://user-images.githubusercontent.com/116576612/232234561-3f118cc2-58f4-42b7-8a0c-8f32fa0ab2b2.png)
 
-**Pantallas principales:**
+**Main screens:**
 
-Tenemos la pantalla de inicio donde tenemos que presionar la tecla "intro - enter" para poder iniciar el juego
+There is a start screen where we have to press the "enter" key to start the game.
 
 ![image](https://user-images.githubusercontent.com/116576612/232234740-ad694f44-988e-4397-b778-9f3498b5c417.png)
 
-Tambien la pantalla cuando el juego termina, donde tenemos que presionar la tecla "space -  espaciadora" para volver a cargarel juego
+Also the screen when the game ends, where we have to press the "space - space" key to reload the game.
 
 ![image](https://user-images.githubusercontent.com/116576612/232234783-e990de13-ecf1-4c17-b20c-580511dea0aa.png)
 
