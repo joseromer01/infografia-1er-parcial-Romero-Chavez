@@ -4,3 +4,5 @@ Una implementación en Python del clásico juego Snake 🐍
 Version Python:
 Python 3.10.11
 
+s
+
