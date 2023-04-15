@@ -9,6 +9,7 @@ Snake es un juego clásico de arcade en el que el jugador controla una serpiente
 
 La serpiente puede desplazarse por todo el campo de juego, hacia arriba, hacia abajo, a la derecha o a la izquierda
 Representación gráfica de los controles:
+
 ![image](https://user-images.githubusercontent.com/116576612/232234561-3f118cc2-58f4-42b7-8a0c-8f32fa0ab2b2.png)
 
 
@@ -16,5 +17,4 @@ Representación gráfica de los controles:
 **Python version:**
 Python 3.10.11
 
-s
 
