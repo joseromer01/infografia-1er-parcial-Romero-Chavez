@@ -40,7 +40,7 @@ pip install arcade
 Clone this repo:
 
 ```
-git clone https://github.com/tiagopog/snake
+git clone https://github.com/joseromer01/infografia-1er-parcial-Romero-Chavez.git
 ```
 
 Run the game:
